@@ -1,0 +1,30 @@
+
+
+.header {
+    background-image: url("skibackground.jpeg"); /* Replace 'your-image.jpg' with your image file path */
+    background-size: cover; /* Ensures the image covers the entire header */
+    background-position: center; /* Centers the background image */
+    height: 600px; /* Set the height of your header */
+    /*width: 100%; /* Makes the header span the full width of the screen */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Set the text color */
+    font-size: 24px; /* Set the font size */
+    text-align: center;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+label::after {
+    content: '';
+    display: block;
+    width: 1px; /* Adjust the width of the vertical line */
+    height: 100%; /* Adjust the height of the vertical line */
+    background-color: black; /* Adjust the color of the vertical line */
+    margin-left: 10px; /* Adjust the distance between the checkbox and the line */
+}

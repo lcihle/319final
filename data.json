@@ -1,0 +1,61 @@
+{
+    "skis": [
+        {
+            "skiName": "Shadow Board",
+            "color": "black",
+            "url": "ski1.jpeg",
+            "style": "all-mountain",
+            "price": 150
+        },
+        {
+            "skiName": "Blue Beauty",
+            "color": "blue",
+            "url": "ski2.jpeg",
+            "style": "freestyle",
+            "price": 175
+        },
+        {
+            "skiName": "Snow Wolf",
+            "color": "grey",
+            "url": "ski3.jpeg",
+            "style": "all-mountain",
+            "price": 225
+        },
+        {
+            "skiName": "Greyhound",
+            "color": "black",
+            "url": "ski4.jpeg",
+            "style": "freestyle",
+            "price": 245
+      },
+      {
+        "skiName": "Dark Magic",
+        "color": "black",
+        "url": "ski5.jpeg",
+        "style": "all-mountain",
+        "price": 99
+        },
+        {
+            "skiName": "Snoozy Sliders",
+            "color": "black",
+            "url": "ski6.jpeg",
+            "style": "freestyle",
+            "price": 165
+        },
+        {
+            "skiName": "Wavy Rider",
+            "color": "blue",
+            "url": "ski7.jpeg",
+            "style": "all-mountain",
+            "price": 240
+        },
+        {
+            "skiName": "Tactical Rider",
+            "color": "grey",
+            "url": "skigrey.jpg",
+            "style": "freestyle",
+            "price": 150
+        }
+        
+    ]
+  }
